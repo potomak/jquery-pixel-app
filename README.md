@@ -1,3 +1,1 @@
-# Draw!
-
-# Moved to http://github.com/potomak/drawbang
+# Draw! has moved to http://github.com/potomak/drawbang
